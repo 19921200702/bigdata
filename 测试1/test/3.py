@@ -81,3 +81,4 @@ def display_data(data):
 stock_code = "sh.600519"  # 贵州茅台
 predict_days = 5  # 预测天数
 stock_price_prediction(stock_code, predict_days)
+print('hello word')
