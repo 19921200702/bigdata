@@ -28,4 +28,4 @@ def handler(args) -> str:
     result = search_baidu(name)
     return result
 #搜索
-print(search_baidu("黑丝高跟"))
+print(search_baidu("人为什么活着"))
